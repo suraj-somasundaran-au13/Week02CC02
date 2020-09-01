@@ -5,4 +5,6 @@
 5. Third(blue).
 6. fourth(Blue).
 
-9. Ninth(blue).
+
+7.First(green).
+8.Second(green).
